@@ -1,0 +1,57 @@
+header{
+background-color: blue;
+height: 50px;
+width: 100%;
+margin: 5px;
+border-radius: 10px;
+} 
+
+.container{
+
+    display: flex;
+    justify-content: space-around;
+   
+    
+  
+}
+
+article{
+    
+    background-color: salmon;
+    height: 400px;
+    width:20% ;
+    margin: 5px;
+    border-radius: 10px;
+    
+    
+    
+}
+
+nav{
+    
+    background-color: rgb(97, 166, 175);
+    height: 400px;
+    width:60% ;
+    margin:5px;
+    border-radius: 10px;
+
+} 
+
+aside{
+    
+    background-color: salmon;
+    height: 400px;
+    width:20% ;
+    margin: 5px;
+    border-radius: 10px;
+   
+
+} 
+
+footer{ background-color: blue;
+    height: 50px;
+    width: 100%;
+    border-radius: 10px;
+    margin: 5px;
+}
+
